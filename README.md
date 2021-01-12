@@ -34,6 +34,29 @@ designated color.
 To set the Discord mute, go to the discord app after flashing, and set the keybind to do "Toggle Mute", 
 then tap the key once.
 
-To toggle the rotary encoder to deafen on press, do the same as line 10, but "Toggle Deafen."
+To toggle the rotary encoder to deafen on press, do the same as line 34, but "Toggle Deafen."
+
+Keys 0, 1, 2, 8 are constant.
+
+The rotary encoder on key 0 is:
+      Turn left for previous media.
+      Turn right for next media.
+      Press in for media Play/Pause.
+      
+Key 1:
+      Go to the "Menu" layer.
+
+The rotary encoder on key 2 is:
+      Turn left for Discord output decrease.
+      Turn right for Discord output increase.
+      Press in for media Play/Pause.
+      
+I will only list keys 3,4,5,6,7 for each layer since the remaining are constant.
+Layer 1:
+            3:
+            4:
+            5:
+            6:
+            7:
 
 
