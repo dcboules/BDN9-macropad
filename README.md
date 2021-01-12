@@ -18,7 +18,7 @@ To toggle the rotary encoder to deafen on press, do the same as line 10, but "To
 
 Here is how the macro pad works:
 
-Upon plugin: 
+First layer: (MENU LAYER)
 ///-------------------------+-------------------------+-------------------------\
 //|  <- turn knob left      |                         |   <- turn knob left     |
 //|    (Previous Media)     |                         |(Decrease Discord Output)|
@@ -45,5 +45,92 @@ Upon plugin:
 //|          (BLUE)         |         (ORANGE)        |      Unmute (Green)     |
 //|                         |                         |                         |
 //|                         |                         |                         |
-//|                         |                         |                         |                                                                        |
+//|                         |                         |                         |
+//\-----------------------------------------------------------------------------/
+Second layer: (ZOOM LAYER)
+///-------------------------+-------------------------+-------------------------\
+//|  <- turn knob left      |                         |   <- turn knob left     |
+//|    (Previous Media)     |                         |(Decrease Discord Output)|
+//|                         |     Press this for      |                         |
+//|    + Press on knob      |       MENU LAYER        |    + Press on knob      |
+//|    (Play/Pause Media)   |     (MULTICOLORED)      |(Deafen/Undeafen Discord)|
+//|                         |                         |                         |
+//|  -> turn knob right     |                         |  -> turn knob right     |
+//|      (Next Media)       |                         |(Increase Discord Output)|
+//|-------------------------+-------------------------+-------------------------|
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|   Press to mute/unmute  |     Press to toggle     |                         |
+//|   ZOOM mic (GREEN/RED)  |   ZOOM cam (GREEN/RED)  |     ZOOM CHAT ON/OFF    |
+//|         (ALT-A)         |         (ALT-V)         |         (ALT-H)         |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|-------------------------+-------------------------+-------------------------|
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|                         |                         |   Press to mute (Red)   |
+//|       OPEN WEBSITE      |      OPEN ONENOTE       |    And press again to   |
+//|                         |                         |      Unmute (Green)     |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//\-----------------------------------------------------------------------------/
+Third layer: (ONENOTE LAYER)
+///-------------------------+-------------------------+-------------------------\
+//|  <- turn knob left      |                         |   <- turn knob left     |
+//|    (Previous Media)     |                         |(Decrease Discord Output)|
+//|                         |     Press this for      |                         |
+//|    + Press on knob      |       MENU LAYER        |    + Press on knob      |
+//|    (Play/Pause Media)   |     (MULTICOLORED)      |(Deafen/Undeafen Discord)|
+//|                         |                         |                         |
+//|  -> turn knob right     |                         |  -> turn knob right     |
+//|      (Next Media)       |                         |(Increase Discord Output)|
+//|-------------------------+-------------------------+-------------------------|
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|    ONENOTE LASSO TOOL   |          UNDO           |    ZOOM VIDEO ON/OFF    |
+//|     (ALT-D, L, ENTER)   |         (CTR-Z)         |         (PG-DN)         |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|-------------------------+-------------------------+-------------------------|
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|                         |                         |   Press to mute (Red)   |
+//|    ONENOTE PEN TOOL     |   ONENOTE ERASER TOOL   |    And press again to   |
+//|    (ALT-D, P, ENTER)    |      (ALT-D, E, M)      |      Unmute (Green)     |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//\-----------------------------------------------------------------------------/
+Fourth layer: (CODING LAYER)
+///-------------------------+-------------------------+-------------------------\
+//|  <- turn knob left      |                         |   <- turn knob left     |
+//|    (Previous Media)     |                         |(Decrease Discord Output)|
+//|                         |     Press this for      |                         |
+//|    + Press on knob      |       MENU LAYER        |    + Press on knob      |
+//|    (Play/Pause Media)   |     (MULTICOLORED)      |(Deafen/Undeafen Discord)|
+//|                         |                         |                         |
+//|  -> turn knob right     |                         |  -> turn knob right     |
+//|      (Next Media)       |                         |(Increase Discord Output)|
+//|-------------------------+-------------------------+-------------------------|
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|    ONENOTE LASSO TOOL   |          UNDO           |    ZOOM VIDEO ON/OFF    |
+//|     (ALT-D, L, ENTER)   |         (CTR-Z)         |         (PG-DN)         |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|-------------------------+-------------------------+-------------------------|
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|     Press this for      |      Press this for     |   Press to mute (Red)   |
+//|     PHOTOSHOP Layer     |       STREAM Layer      |    And press again to   |
+//|          (BLUE)         |         (ORANGE)        |      Unmute (Green)     |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|                         |                         |                         |
 //\-----------------------------------------------------------------------------/
