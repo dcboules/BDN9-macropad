@@ -1,4 +1,5 @@
 "# BDN9-macropad" 
+***DISCLAIMER, if the file looks to be unreadable, press the button on the top right that says "raw". ***
 
 I am working on this macro pad to solve a lot of minor inconveniences in my day to day experience.
 Because it is only 9 keys, I made it so that there can be an infinite amount of options with the use 
