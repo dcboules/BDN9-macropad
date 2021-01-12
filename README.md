@@ -1,7 +1,5 @@
 "# BDN9-macropad" 
 
-***DISCLAIMER, if the file looks to be unreadable, press the button on the top right that says "raw". ***
-
 I built this macro pad to solve a lot of minor inconveniences in my day to day computer experience.
 Because it is only 9 keys, I had to brainstorm so that I could itilize those keys to do more than one
 task. I wanted each set of macros to be used when I am using a corresponding program. For instance,
@@ -22,9 +20,9 @@ Key 8 always bound to mute and unmute on Discord. Assuming that Discord boots as
 indicating the mic is open, and when it is pressed again (to mute) the LED turns red. I bound it to the F24 
 key, and set that as the keybind in Discord. (Used an incrementor and used % 2 ).
 
-      I had actually tried to use the memory location in Discord to indicate where the mic was on or off, but 
-      I came to realize that the memory location that I found from Discord changes each time the computer 
-      turns on, so I had to scrap that work.
+      I had actually tried to use the memory location in Discord to indicate where the mic was on 
+      or off, but I came to realize that the memory location that I found from Discord changes each 
+      time the computer turns on, so I had to scrap that work.
 
 It is indeed tricky to remember which key is on what layer since there are several different options,
 and because of this I have it so that when the layer is changed, the background changes to its own 
