@@ -1,19 +1,3 @@
-/* Copyright 2019 Danny Nguyen <danny@keeb.io>
- *
- * This program is free software: you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation, either version 2 of the License, or
- * (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
- */
-
 #include <stdint.h>
 #include <stdbool.h>
 
@@ -108,7 +92,7 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
             if (record->event.pressed){
                 if (dmic_status == 0) {
                     dmic_status = 1;
-                    }
+                }
                 else {
                     dmic_status = 0;
                 };
@@ -119,7 +103,7 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
                 tap_code16(LALT(KC_A));
                 if (zmic_status == 0) {
                     zmic_status = 1;
-                    }
+                }
                 else {
                     zmic_status = 0;
                 };
@@ -130,7 +114,7 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
                 tap_code16(LALT(KC_V));
                 if (zvid_status == 0) {
                     zvid_status = 1;
-                    }
+                }
                 else {
                     zvid_status = 0;
                 };
@@ -176,7 +160,7 @@ void zmic_status_indicator(void){
     }
 };
 void zvid_status_indicator(void){
-     if (zvid_status == 0) {
+    if (zvid_status == 0) {
         rgb_matrix_set_color(4, 0, 255, 0);
     } 
     else {
@@ -264,21 +248,24 @@ void encoder_update_user(uint8_t index, bool clockwise) {
     if (index == _LEFT) {
         if (clockwise) {
             tap_code(KC_MNXT);
-        } else {
+        } 
+        else {
             tap_code(KC_MPRV);
         }
     }
     else if (index == _MIDDLE) {
         if (clockwise) {
             tap_code(KC_DOWN);
-        } else {
+        } 
+        else {
             tap_code(KC_UP);
         }
     }
     else if (index == _RIGHT) {
         if (clockwise) {
             tap_code(KC_SLCK);
-        } else {
+        } 
+        else {
             tap_code(KC_NLCK);
         }
     }
