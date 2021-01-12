@@ -121,17 +121,46 @@ Fourth layer: (CODING LAYER)
 //|                         |                         |                         |
 //|                         |                         |                         |
 //|                         |                         |                         |
-//|    ONENOTE LASSO TOOL   |          UNDO           |    ZOOM VIDEO ON/OFF    |
-//|     (ALT-D, L, ENTER)   |         (CTR-Z)         |         (PG-DN)         |
+//|          Types          |          Types          |          Types          |
+//|        "git push"       |        "git pull"       |       "#include <>"     |
 //|                         |                         |                         |
 //|                         |                         |                         |
 //|                         |                         |                         |
 //|-------------------------+-------------------------+-------------------------|
 //|                         |                         |                         |
 //|                         |                         |                         |
-//|     Press this for      |      Press this for     |   Press to mute (Red)   |
-//|     PHOTOSHOP Layer     |       STREAM Layer      |    And press again to   |
-//|          (BLUE)         |         (ORANGE)        |      Unmute (Green)     |
+//|   Copies a screenshot   |        Prints my        |   Press to mute (Red)   |
+//|     to a clipboard      |         USERNAME        |    And press again to   |
+//|      (WIN+SHFT+S)       |                         |      Unmute (Green)     |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//\-----------------------------------------------------------------------------/
+Fifth layer: (PHOTSHOP LAYER)
+///-------------------------+-------------------------+-------------------------\
+//|  <- turn knob left      |                         |   <- turn knob left     |
+//|    (Previous Media)     |                         |(Decrease Discord Output)|
+//|                         |     Press this for      |                         |
+//|    + Press on knob      |       MENU LAYER        |    + Press on knob      |
+//|    (Play/Pause Media)   |     (MULTICOLORED)      |(Deafen/Undeafen Discord)|
+//|                         |                         |                         |
+//|  -> turn knob right     |                         |  -> turn knob right     |
+//|      (Next Media)       |                         |(Increase Discord Output)|
+//|-------------------------+-------------------------+-------------------------|
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|   Decreases tool size   |   Decreases tool size   |     Step backwards      |
+//|      (Left Bracket)     |     (Right Bracket)     |      (CTRL+ALT+Z)       |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|-------------------------+-------------------------+-------------------------|
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|   Activates Brush Tool  |  Activates Eraser Tool  |   Press to mute (Red)   |
+//|           (B)           |            (E)          |    And press again to   |
+//|                         |                         |      Unmute (Green)     |
 //|                         |                         |                         |
 //|                         |                         |                         |
 //|                         |                         |                         |
