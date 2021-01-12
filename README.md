@@ -9,14 +9,7 @@ during the pandemic, all of my classes are on Zoom. I take notes in Microsoft On
 Photoshop, Discord, and Microsoft VS Code regularly. I decided to make 5 different profiles that can be
 accessed at any time.
 
-I am going to be refering to certain numbers to indicate keys. 
-+---+---+---+
-| 0 | 1 | 2 |
-+---+---+---+
-| 3 | 4 | 5 |
-+---+---+---+
-| 6 | 7 | 8 |
-+---+---+---+
+Starting with the top left, reading left to right the keys are numbered 1-8
 
 The way it is made now, upon flashing is a layer with a yellow background color. Key 3 is White, Key 4 is Purple,
 
