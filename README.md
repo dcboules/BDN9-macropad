@@ -16,36 +16,34 @@ then tap the key once.
 
 To toggle the rotary encoder to deafen on press, do the same as line 10, but "Toggle Deafen."
 
-
 Here is how the macro pad works:
 
-
 Upon plugin: 
-/-------------------------+-------------------------+-------------------------\
-|  <- turn knob left      |                         |   <- turn knob left     |
-|    (Previous Media)     |                         |(Decrease Discord Output)|
-|                         |     Press this for      |                         |
-|    + Press on knob      |       MENU LAYER        |    + Press on knob      |
-|    (Play/Pause Media)   |     (MULTICOLORED)      |(Deafen/Undeafen Discord)|
-|                         |                         |                         |
-|  -> turn knob right     |                         |  -> turn knob right     |
-|      (Next Media)       |                         |(Increase Discord Output)|
-|-------------------------+-------------------------+-------------------------|
-|                         |                         |                         |
-|                         |                         |                         |
-|      Press this for     |     Press this for      |     Press this for      |
-|        ZOOM Layer       |      ONENOTE Layer      |      CODING Layer       |
-|         (WHITE)         |         (PURPLE)        |         (TEAL)          |
-|                         |                         |                         |
-|                         |                         |                         |
-|                         |                         |                         |
-|-------------------------+-------------------------+-------------------------|
-|
-|
-|
-|
-|
-|
-|
-|                                                                             |
-\-----------------------------------------------------------------------------/
+///-------------------------+-------------------------+-------------------------\
+//|  <- turn knob left      |                         |   <- turn knob left     |
+//|    (Previous Media)     |                         |(Decrease Discord Output)|
+//|                         |     Press this for      |                         |
+//|    + Press on knob      |       MENU LAYER        |    + Press on knob      |
+//|    (Play/Pause Media)   |     (MULTICOLORED)      |(Deafen/Undeafen Discord)|
+//|                         |                         |                         |
+//|  -> turn knob right     |                         |  -> turn knob right     |
+//|      (Next Media)       |                         |(Increase Discord Output)|
+//|-------------------------+-------------------------+-------------------------|
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|      Press this for     |     Press this for      |     Press this for      |
+//|        ZOOM Layer       |      ONENOTE Layer      |      CODING Layer       |
+//|         (WHITE)         |         (PURPLE)        |         (TEAL)          |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|                         |                         |                         |
+//|-------------------------+-------------------------+-------------------------|
+//|
+//|
+//|
+//|
+//|
+//|
+//|
+//|                                                                             |
+//\-----------------------------------------------------------------------------/
