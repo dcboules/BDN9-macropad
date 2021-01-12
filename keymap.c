@@ -21,7 +21,7 @@
 
 #define HIGHEST_LAYER 3
 #define KC_CAZ LALT(LCTL(KC_Z))
-#define KC_SCRN LSHIFT(LGUI(KC_S))
+#define KC_SCRN LSFT(LGUI(KC_S))
 #define KC_CZ  LCTL(KC_Z)
 #define KC_DMIC KC_F24
 #define KC_ZCHAT LALT(KC_H)
