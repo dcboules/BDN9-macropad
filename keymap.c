@@ -46,27 +46,27 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
         case KC_ONEE:
             if (record->event.pressed) {
                 tap_code16(LALT(KC_D));
-                wait_ms(30);
+                wait_ms(50);
                 tap_code(KC_E);
-                wait_ms(30);
+                wait_ms(50);
                 tap_code(KC_M);
             }
             break;
         case KC_ONEP:
             if (record->event.pressed) {
                 tap_code16(LALT(KC_D));
-                wait_ms(30);
+                wait_ms(50);
                 tap_code(KC_P);
-                wait_ms(30);
+                wait_ms(50);
                 tap_code(KC_ENT);
             }
             break;
         case KC_ONEL:
             if (record->event.pressed) {
                 tap_code16(LALT(KC_D));
-                wait_ms(30);
+                wait_ms(50);
                 tap_code(KC_L);
-                wait_ms(30);
+                wait_ms(50);
                 tap_code(KC_ENT);
             }
             break;
@@ -137,7 +137,7 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
             break;
         case KC_USER:
             if (record->event.pressed){
-                SEND_STRING("dcboules");
+                SEND_STRING("Enter whatever you want in line 140!");
             }
             break;
     }
@@ -243,7 +243,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     )
   
 };
-
 void encoder_update_user(uint8_t index, bool clockwise) {
     if (index == _LEFT) {
         if (clockwise) {
