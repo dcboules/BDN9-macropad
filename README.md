@@ -1,7 +1,7 @@
 "# BDN9-macropad" 
 
 I built this macro pad to solve a lot of minor inconveniences in my day to day computer experience.
-Because it is only 9 keys, I had to brainstorm so that I could itilize those keys to do more than one
+Because it is only 9 keys, I had to brainstorm so that I could utilize those keys to do more than one
 task. I wanted each set of macros to be used when I am using a corresponding program. For instance,
 during the pandemic, all of my classes are on Zoom. I take notes in Microsoft OneNote. I use Adobe 
 Photoshop, Discord, and Microsoft VS Code regularly. I decided to make 5 different profiles that can be
